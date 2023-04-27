@@ -4,4 +4,3 @@ Rencana Belajar
   * Codeigniter
 - REST API
 - STRUKTURAL CODE
-- DBMS
