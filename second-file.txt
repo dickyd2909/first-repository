@@ -4,3 +4,6 @@ Rencana Belajar
   * Codeigniter
 - REST API
 - STRUKTURAL CODE
+- JAVASCRIPT FRAMEWORKS
+  * Vue
+  * React
