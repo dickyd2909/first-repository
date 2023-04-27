@@ -2,3 +2,5 @@ contoh pembuatan git
 - bismillah belajar git cepat
 - git untuk bekerja
 - git membantu version control system
+- penambahan file first-repository.txt
+- belajar menambah git file first-repository.txt
